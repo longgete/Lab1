@@ -160,7 +160,11 @@ public class Expression {
 			newPoly = newPoly.substring(1);
 		}
 		System.out.println(newPoly);
+<<<<<<< HEAD
 		System.out.println("这是第一次修改的结果");
+=======
+		
+>>>>>>> a6bf7ac19e26c53685f05da39e935174c3feaf95
 	
 	}
 	
@@ -278,3 +282,15 @@ public class Expression {
 	 }
 	
 }
+<<<<<<< HEAD
+=======
+//修改2
+<<<<<<< HEAD
+//B2分支上的修改
+=======
+
+//实验场景2：分支管理.4
+//实验场景2：分支管理.5
+//解决冲突
+>>>>>>> B1
+>>>>>>> a6bf7ac19e26c53685f05da39e935174c3feaf95

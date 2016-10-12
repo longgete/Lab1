@@ -56,10 +56,23 @@ public class UserIn {
 		UserIn myuser = new UserIn();
 		while(!myuser.userinput.equals("exit"))//输入exit，程序退出
 		{
+<<<<<<< HEAD
 			System.out.println("这是第一次修改的结果");
+=======
+			
+>>>>>>> a6bf7ac19e26c53685f05da39e935174c3feaf95
 			myuser.userinput();
 			myuser.match();
 		}
 		
     }
 }
+<<<<<<< HEAD
+=======
+//修改1
+//B2分支上的修改
+//实验场景2：分支管理.4
+//实验场景2：分支管理.5
+//解决冲突
+
+>>>>>>> a6bf7ac19e26c53685f05da39e935174c3feaf95
